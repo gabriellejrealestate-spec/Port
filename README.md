@@ -4,9 +4,14 @@ Welcome to my coding portfolio. Here you'll find some of my favorite projects, s
 
 ##  Projects
 
-- **Turn Board**
-  *Purpose: This project is an two-part Excel based checklist to manage and track front office and admin resphonsibilites during apartment or dormitory turnover perids. It ensure that all necessary steps are completed for move-ins, transfers, and vendors.*
-  *Skills: Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting *
+
+ **Turn Board**
+
+  
+**Purpose:**  This project is an two-part Excel based checklist to manage and track front office and admin resphonsibilites during apartment or dormitory turnover perids. It ensure     that  all necessary steps are completed for move-ins, transfers, and vendors.
+ 
+**Skills:** Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting 
+  
   [View Repository](link-to-repo)
 
 - **Project Two**  
