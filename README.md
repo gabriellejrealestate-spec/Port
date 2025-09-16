@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Gabrielle!
+#  Hi, I'm Gabrielle!
 
 Welcome to my coding portfolio. Here you'll find some of my favorite projects, skills, and ways to connect with me.
 
-## 🛠 Projects
+##  Projects
 
-- **Project one**  
-  *Short description, technologies used, and what makes it special.*  
+- **Turn Board**
+  *Purpose: This project is an two-part Excel based checklist to manage and track front office and admin resphonsibilites during apartment or dormitory turnover perids. It ensure that all necessary steps are completed for move-ins, transfers, and vendors.*
+  *Skills: Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting *
   [View Repository](link-to-repo)
 
 - **Project Two**  
@@ -14,4 +15,4 @@ Welcome to my coding portfolio. Here you'll find some of my favorite projects, s
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabrielle-johnson-1421492a2/) or [Email](Gabriellejohnson508@icloud.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabrielle-johnson-1421492a2/) or [Email](mailto:Gabriellejohnson508@icloud.com).
