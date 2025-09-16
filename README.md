@@ -2,21 +2,40 @@
 
 Welcome to my coding portfolio. Here you'll find some of my favorite projects, skills, and ways to connect with me.
 
-##  Projects
+## Excel
 
+**Project:** Turn Board
 
- **Turn Board**
-
-  
-**Purpose:**  This project is an two-part Excel based checklist to manage and track front office and admin resphonsibilites during apartment or dormitory turnover perids. It ensure     that  all necessary steps are completed for move-ins, transfers, and vendors.
+**Purpose:**  This project is an two-part Excel based checklist to manage front office and admin responsibilites during apartment or dormitory turnover perids. It ensure that  all necessary steps are completed for move-ins, transfers, and vendors.
  
-**Skills:** Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting 
+**Skills:** Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting, Pivot Tables, Filters & Sorting, Shared Workbook / Collaboration Features, Formulas (IF, COUNTIF, VLOOKUP)
   
-  [View Repository](https://github.com/gabriellejrealestate-spec/turn-board-2025-2026)
+  [View Excel Front Office Turn Checklist](https://github.com/gabriellejrealestate-spec/turn-board-2025-2026/blob/main/94920%20Turn%20Board%202025-2026.xlsx)
+  [View Excel Admin Turn Board]()
+  
+## Java Project
 
-- **Project Two**  
-  *Short description, technologies used, and what makes it special.*  
-  [View Repository](link-to-repo)
+**Project:Bank Account**  
+  
+**Purpose:** 
+
+**Skills:** 
+
+  [View Bank Account.java](link-to-repo)
+
+**Project:**
+
+**Purpose:**
+
+**Skills:**
+
+## Java Backend Project 
+
+**Project:** 
+
+**Purpose:**
+
+**Skills:**
 
 ## 📫 Contact
 
