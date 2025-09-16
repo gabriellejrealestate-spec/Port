@@ -12,7 +12,7 @@ Welcome to my coding portfolio. Here you'll find some of my favorite projects, s
  
 **Skills:** Conditional Formatting, Data Validation, Color-Coding, Cell Merging & Formatting 
   
-  [View Repository](link-to-repo)
+  [View Repository](https://github.com/gabriellejrealestate-spec/turn-board-2025-2026)
 
 - **Project Two**  
   *Short description, technologies used, and what makes it special.*  
